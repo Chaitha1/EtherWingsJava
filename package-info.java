@@ -1,1 +1,1 @@
-package basicjava;
+package interviewProgram;
